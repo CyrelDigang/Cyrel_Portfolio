@@ -2,12 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import SmartStore from "../../Assets/Projects/SS.png";
+import prediction from "../../Assets/Projects/sound pred.png";
+import cvuild from "../../Assets/Projects/cvuild.png";
+import iSmishU from "../../Assets/Projects/ismishu.jpg";
 
 function Projects() {
   return (
@@ -15,56 +13,60 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My Recent <strong className="purple">Works </strong>
+          My <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Visit the GitHub links of each project to explore their functionality and documentation
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          {/*ISmishU*/}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={iSmishU}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="iSmishU"
+              description="iSmishU is a smishing detection system specifically designed for Taglish (a mix of Tagalog and English). It leverages XLM-RoBERTa, a powerful multilingual language model, to analyze message content and classify it as either Smishing or Ham (legitimate). To enhance detection capabilities, the system integrates text classification using a fine-tuned XLM-RoBERTa model with URL analysis through the VirusTotal API."
+              ghLink="https://github.com/CyrelDigang/iSmishU"
+              
             />
           </Col>
 
+          {/*cvuild */}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={cvuild}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="CVuild"
+              description="CVuild is a Java-based desktop application that simplifies the resume-creation process for job seekers, students, professionals, freelancers, and career coaches. The program offers a simple, effective, and complete tool for writing professional resumes. CVuild's scope includes the establishment and management of user accounts, as well as the input of personal information such as schooling history, work experience, leadership activities, talents, and interests. Users can browse and download their resumes in document format. The software seeks to empower users by streamlining the resume preparation process, allowing them to successfully demonstrate their qualifications and advance their professional careers. "
+              ghLink="https://github.com/CyrelDigang/CVuild"
+             
             />
           </Col>
 
+          {/*SmartStore*/}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={SmartStore}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="SmartStore"
+              description="Smart Store is a simple inventory management system for a smartphone store. It supports full CRUD (Create, Read, Update, Delete) operations, allowing users to manage product listings efficiently within a MariaDB database."
+              ghLink="https://github.com/CyrelDigang/Smart-Store"
+                            
             />
           </Col>
 
+          {/*Prediction*/}
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={prediction}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Music Sound Feature Prediction"
+              description="This project explores the prediction and visualization of music sound features using a dataset sourced from **Spotify**. It applies data analysis and machine learning techniques to identify patterns in audio characteristics such as tempo, energy, danceability, and more."
+              ghLink="https://github.com/CyrelDigang/Music-Sound-Feature-Prediction"
             />
           </Col>
-
+          {/* 
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
@@ -75,18 +77,7 @@ function Projects() {
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={emotion}
-              isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
-            />
-          </Col>
+          */}
         </Row>
       </Container>
     </Container>
