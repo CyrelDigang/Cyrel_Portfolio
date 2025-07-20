@@ -13,7 +13,10 @@
 
 This is the **personal portfolio website** of **Cyrel P. Digang**, an aspiring software engineer. It showcases selected projects, resume, and technical skills. The design is clean, responsive, and built to be easily customized and maintained.
 
-> **Original Design Inspired by:** [Soumyajit4419's Developer Portfolio](https://github.com/soumyajit4419/Portfolio)
+## 🙏 Credits
+
+This portfolio is a customized version of [Soumyajit4419](https://github.com/soumyajit4419)'s original developer portfolio. Full credit to him for the design, layout, and core implementation.
+
 
 ---
 
