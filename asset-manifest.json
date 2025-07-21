@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Cyrel_Portfolio/static/css/main.b9e1adb8.css",
+    "main.js": "/Cyrel_Portfolio/static/js/main.d91b4ecb.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Cyrel_Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Cyrel_Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avt.png": "/Cyrel_Portfolio/static/media/avt.b2648aff4e7faed3017e.png",
+    "static/media/avatar4.png": "/Cyrel_Portfolio/static/media/avatar4.c65bf5227719f85784d6.png",
+    "static/media/logo2.png": "/Cyrel_Portfolio/static/media/logo2.c3f4af8fb6ed51b0d283.png",
+    "static/media/cvuild.png": "/Cyrel_Portfolio/static/media/cvuild.f5256a06bf1e76accdf3.png",
+    "static/media/ismishu.jpg": "/Cyrel_Portfolio/static/media/ismishu.107e28d7289154d84e0a.jpg",
+    "static/media/exp1.jpg": "/Cyrel_Portfolio/static/media/exp1.d95a1fd70802ead88aca.jpg",
+    "static/media/Digang, Cyrel P. (Resume).pdf": "/Cyrel_Portfolio/static/media/Digang, Cyrel P. (Resume).97e54f95240a748dacae.pdf",
+    "static/media/about.png": "/Cyrel_Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sound pred.png": "/Cyrel_Portfolio/static/media/sound pred.e6b31a2376c3e4298608.png",
+    "static/media/pitching.jpg": "/Cyrel_Portfolio/static/media/pitching.156295910a20a3bfe366.jpg",
+    "static/media/SS.png": "/Cyrel_Portfolio/static/media/SS.4371c12806e936437af0.png",
+    "static/media/home-bg.jpg": "/Cyrel_Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/Cyrel_Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/Cyrel_Portfolio/index.html",
+    "main.b9e1adb8.css.map": "/Cyrel_Portfolio/static/css/main.b9e1adb8.css.map",
+    "main.d91b4ecb.js.map": "/Cyrel_Portfolio/static/js/main.d91b4ecb.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Cyrel_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Cyrel_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e1adb8.css",
+    "static/js/main.d91b4ecb.js"
+  ]
+}
