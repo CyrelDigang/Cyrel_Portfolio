@@ -9,6 +9,7 @@ import {
   AiOutlineMail
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { Link } from "react-router-dom";
 
 function Home2() {
   return (
@@ -57,7 +58,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              For more info about me, <a href="/about" className="purple"><b>click here.</b></a>
+              For more info about me, <Link to="/about" className="purple"><b>click here.</b></Link>
             </p>
           </Col>
 
