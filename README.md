@@ -1,6 +1,6 @@
 <h2 align="center">
   Cyrel's Portfolio Website - v1.0<br/>
-  <a href="https://cyreldigang.github.io/Cyrel_Portfolio/">cyreldigang.github.io (Coming Soon)</a>
+  <a href="https://cyreldigang.github.io/Cyrel_Portfolio/">cyreldigang.github.io</a>
 </h2>
 
 <div align="center">
