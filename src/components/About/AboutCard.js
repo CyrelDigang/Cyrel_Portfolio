@@ -17,7 +17,7 @@ function AboutCard() {
               Bachelor of Science in Computer Science
             </span>{" "}
             from the <span className="purple">Polytechnic University of the Philippines</span>, graduating{" "}
-            <span className="purple">Magna Cum Laude.</span>
+            <span className="purple">Cum Laude.</span>
             <br />
             <br />
             Aside from programming and other tech-related interests, here are a few things I love to do:
