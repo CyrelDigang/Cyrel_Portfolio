@@ -16,10 +16,10 @@ function Projects() {
       <Particle />
       <Container>
         <h1 className="project-heading">
-          My <strong className="purple">Works </strong>
+          My <strong className="purple">Certificates/Badges </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Visit the GitHub links of each project to explore their functionality and documentation
+          Click the "Show Credential" button to verify the authenticity of the certificates.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
 
