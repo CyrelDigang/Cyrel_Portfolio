@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b2f774a.css",
+    "main.js": "/static/js/main.58c8e173.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avt.png": "/static/media/avt.b2648aff4e7faed3017e.png",
+    "static/media/avatar4.png": "/static/media/avatar4.c65bf5227719f85784d6.png",
+    "static/media/logo2.png": "/static/media/logo2.c3f4af8fb6ed51b0d283.png",
+    "static/media/cvuild.png": "/static/media/cvuild.f5256a06bf1e76accdf3.png",
+    "static/media/Digang, Cyrel P. (Resume v.2).pdf": "/static/media/Digang, Cyrel P. (Resume v.2).bb6acc37394cccbbe084.pdf",
+    "static/media/ismishu.jpg": "/static/media/ismishu.107e28d7289154d84e0a.jpg",
+    "static/media/exp1.jpg": "/static/media/exp1.d95a1fd70802ead88aca.jpg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Introduction to Large Language Models.png": "/static/media/Introduction to Large Language Models.16d0aff6f9d802b172fa.png",
+    "static/media/sound pred.png": "/static/media/sound pred.e6b31a2376c3e4298608.png",
+    "static/media/Professional Machine Learning Engineer Study Guide.png": "/static/media/Professional Machine Learning Engineer Study Guide.55e26da1cf42f942701b.png",
+    "static/media/pitching.jpg": "/static/media/pitching.156295910a20a3bfe366.jpg",
+    "static/media/SS.png": "/static/media/SS.4371c12806e936437af0.png",
+    "static/media/Responsible AI.png": "/static/media/Responsible AI.e03996d80972d7624d59.png",
+    "static/media/Introduction to Generative AI.png": "/static/media/Introduction to Generative AI.cf148b835d8964fc44ac.png",
+    "static/media/Introduction to Responsible AI.png": "/static/media/Introduction to Responsible AI.b9355ba6c0dc1665798c.png",
+    "static/media/Prompt Design in Vertex AI.png": "/static/media/Prompt Design in Vertex AI.f76cfbaac3f6e3c49e99.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/AWS Cloud Practitioner.png": "/static/media/AWS Cloud Practitioner.789efbda763c030e1133.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.9b2f774a.css.map": "/static/css/main.9b2f774a.css.map",
+    "main.58c8e173.js.map": "/static/js/main.58c8e173.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b2f774a.css",
+    "static/js/main.58c8e173.js"
+  ]
+}
