@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cyrel_Portfolio/static/css/main.b9e1adb8.css",
-    "main.js": "/Cyrel_Portfolio/static/js/main.5d1f8c25.js",
+    "main.js": "/Cyrel_Portfolio/static/js/main.9b6e7357.js",
     "static/js/415.4d6acbeb.chunk.js": "/Cyrel_Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Cyrel_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/avt.png": "/Cyrel_Portfolio/static/media/avt.b2648aff4e7faed3017e.png",
@@ -26,12 +26,12 @@
     "static/media/pre.svg": "/Cyrel_Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Cyrel_Portfolio/index.html",
     "main.b9e1adb8.css.map": "/Cyrel_Portfolio/static/css/main.b9e1adb8.css.map",
-    "main.5d1f8c25.js.map": "/Cyrel_Portfolio/static/js/main.5d1f8c25.js.map",
+    "main.9b6e7357.js.map": "/Cyrel_Portfolio/static/js/main.9b6e7357.js.map",
     "415.4d6acbeb.chunk.js.map": "/Cyrel_Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Cyrel_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9e1adb8.css",
-    "static/js/main.5d1f8c25.js"
+    "static/js/main.9b6e7357.js"
   ]
 }
